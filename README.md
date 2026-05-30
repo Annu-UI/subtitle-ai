@@ -5,7 +5,7 @@
 **Real-time AI subtitles for any streaming platform — YouTube, Netflix, Prime Video, and beyond.**  
 No subscriptions. No manual setup. Just click and watch in any language.
 
-<img src="assets/popup.png" width="900"/>
+<img src="extension/assets/popup.png" width="900"/>
 
 <br/>
 
@@ -30,7 +30,7 @@ Open a Japanese anime, a Korean drama, a Hindi film — click one button and Eng
 ## Demo
 
 <div align="center">
-<img src="assets/subtitle.png" width="80%"/>
+<img src="extension/assets/subtitle.png" width="80%"/>
 <br/>
 <sub>Live English subtitles on a Japanese YouTube video — 150ms average latency</sub>
 </div>
