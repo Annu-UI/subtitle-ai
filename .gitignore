@@ -1,0 +1,22 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Logs
+backend/logs/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pt
+*.pth
+*.bin
+*.pkl

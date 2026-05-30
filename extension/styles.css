@@ -1,0 +1,42 @@
+#subtitleai-container {
+  position: fixed !important;
+  bottom: 80px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  z-index: 2147483647 !important;
+  display: none;
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 4px !important;
+  pointer-events: none !important;
+  max-width: 80vw !important;
+  text-align: center !important;
+}
+
+#subtitleai-text {
+  background: rgba(0, 0, 0, 0.85) !important;
+  color: #ffffff !important;
+  padding: 10px 24px !important;
+  border-radius: 6px !important;
+  font-family: 'Segoe UI', Arial, sans-serif !important;
+  font-size: 22px !important;
+  font-weight: 600 !important;
+  line-height: 1.4 !important;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.8) !important;
+  transition: opacity 0.3s ease !important;
+  max-width: 100% !important;
+  word-wrap: break-word !important;
+}
+
+#subtitleai-interim {
+  background: rgba(0, 0, 0, 0.6) !important;
+  color: #dddddd !important;
+  padding: 6px 16px !important;
+  border-radius: 4px !important;
+  font-family: 'Segoe UI', Arial, sans-serif !important;
+  font-size: 17px !important;
+  font-style: italic !important;
+  transition: opacity 0.2s ease !important;
+  max-width: 100% !important;
+  word-wrap: break-word !important;
+}
